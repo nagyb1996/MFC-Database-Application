@@ -1,0 +1,30 @@
+Staff
+Sydney H
+560 H
+W001
+30
+40
+Faculty
+Brody Nagy
+570 H
+W002
+60000
+6
+Student
+Mike L
+580 H
+W003
+12
+20
+Faculty
+Bruce D
+590 H
+W004
+12000
+6
+Staff
+Test Person
+600 H
+W005
+100
+44
